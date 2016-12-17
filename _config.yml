@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Jay Parchuré"
+author: "Jayant Parchuré"
 title: "{ Jay Parchuré }"
 description: "Blog and website of Jay Parchuré, where I express my opinions on all things data."
-keywords: "parchure, analytics, personal, jekyll, theme, visualization"
+keywords: "parchure, jay, jayant, data-science, analytics, data, visualization, personal, jekyll"
 favicon: "/img/favicon.ico"
 
 ################
@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "What insight will you find today?"
   - text: "Work smarter, not harder"
-
+  - text: "If not here, where would you rather be?"
 me-img: "/img/Jay.jpg"
 
 ##############################
