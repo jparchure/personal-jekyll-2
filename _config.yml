@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Jay Parchuré"
+title: "{ Jay Parchuré }"
+description: "Blog and website of Jay Parchuré, where I express my opinions on all things data."
+keywords: "parchure, analytics, personal, jekyll, theme, visualization"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "What insight will you find today?"
+  - text: "Work smarter, not harder"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/Jay.jpg"
 
 ##############################
 # Color the browser elements #
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "jayantparchure@gmail.com"
 
 ################
 # Author Blurb #
@@ -144,14 +144,12 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://www.twitter.com/jparchure"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://www.github.com/PanosSakkos/personal-jekyll-theme"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/jayantparchure"
   - title: "rss"
     url: "/feed.xml"
 
@@ -177,9 +175,11 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
+  FAQ: 'faq'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
+
 
 # Exclusion list from the generated _site
 
