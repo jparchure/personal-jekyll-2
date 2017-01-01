@@ -98,12 +98,15 @@ a {
             outline: none;
         }
     }
+
     .navbar-brand {
         font-weight: 700;
         &:focus {
             outline: none;
         }
     }
+
+
     a {
         color: $navbar-color;
         @if $header-text-shadow{
@@ -112,6 +115,7 @@ a {
     }
     .nav {
         text-align: center;
+
         li {
             a {
                 -webkit-transition: background .3s ease-in-out;
@@ -121,7 +125,7 @@ a {
                     /* color: rgba($font-color, 0.8); */
                     outline: none;
                     background-color: rgba($font-color, 0.3);
-                }
+               }
                 &:focus,
                 &:active {
                     outline: none;
@@ -138,7 +142,10 @@ a {
                 }
             }
         }
+
+
     }
+  // Author's note, add the section below to getrid of black nav bar on page load
     @media(min-width:768px) {
         padding: 20px 0;
         border-bottom: none;
@@ -153,6 +160,7 @@ a {
             border-bottom: 1px solid rgba($font-color, 0.3);
         }
     }
+
 }
 
 .intro {
