@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://jparchure.github.io/blog/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+    
+      <url>
+        <loc>https://jparchure.github.io/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://jparchure.github.io/blog/page2/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/12/08/Adventures-in-Data-Hunting.html</loc>
+      
+        <lastmod>2016-12-08T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/11/21/ACT-Symposium.html</loc>
+      
+        <lastmod>2016-11-21T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/08/31/Dipping-Toes.html</loc>
+      
+        <lastmod>2016-08-31T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/05/23/Conference-Updates.html</loc>
+      
+        <lastmod>2016-05-23T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/03/11/Merry-March-Update.html</loc>
+      
+        <lastmod>2016-03-11T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2016/02/12/Fab-February-Update.html</loc>
+      
+        <lastmod>2016-02-12T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2015/12/21/A-Simple-Alteryx-Workflow.html</loc>
+      
+        <lastmod>2015-12-21T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2015/12/15/Whoa!.html</loc>
+      
+        <lastmod>2015-12-15T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://jparchure.github.io/personal-jekyll-theme/2014/06/13/another.post.html</loc>
+      
+        <lastmod>2014-06-13T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+</urlset>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Jay Parchuré }</title>
+		<description>Blog and website of Jay Parchuré, where I express my opinions on all things data.</description>
+		<link>https://jparchure.github.io/personal-jekyll-theme</link>
+		<atom:link href="https://jparchure.github.io/personal-jekyll-theme/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Adventures in Data Hunting</title>
+				
+				
+					<description>&lt;p&gt;Looking for data on the internet is like playing Pokemon Go- You aim to find as many as you can; there is an abundance of them in easy to access places, but the ones found there are either underwhelming or too common; for the more exotic and powerful ones you have to travel far and beyond. Even when you find one, there is no guarantee that it would be caught easily, it might be evasive, ill-behaved and might need to be knocked down by your tools, which depends on your skill and acumen. After catching you need to train it regularly, earn its respect and become good buddies in order to understand its deeply.
+In the end, only if you have the grit and character to tame it, can you acheive eternal glory. This post is one of (hopefully) many to come of my data hunting adventures.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 08 Dec 2016 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/12/08/Adventures-in-Data-Hunting.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/12/08/Adventures-in-Data-Hunting.html</guid>
+			</item>
+		
+			<item>
+				<title>Musings&amp;#58; ACT Symposium</title>
+				
+				
+					<description>&lt;p&gt;Last week, ACT, the organization I work in, organized its annual Analytics Symposium. The speaker list featured distinguished researchers and industry stalwarts from the fields of Psychometrics, Learning Analytics and Data Science.
+Based on the presentations, here are some of my thoughts as a Knowledge worker.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 21 Nov 2016 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/11/21/ACT-Symposium.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/11/21/ACT-Symposium.html</guid>
+			</item>
+		
+			<item>
+				<title>Dipping Toes</title>
+				
+				
+					<description>&lt;p&gt;A fairly persistent question that bugs the minds of data science novices is- “Where do I start?”
+For computer scientists, there is awlays Project Euler, LeetCode and HackerRank. The data science equivalent to it is Kaggle. &lt;br /&gt;
+So, the natural answer for the question is- “Go to Kaggle”. But this answer does little to provide clarity. &lt;br /&gt;
+Or atleast it did not for me. &lt;br /&gt;&lt;br /&gt;
+A little bit of a background first. I am a professional data analyst who is used to working on industry projects that have well(ish)-defined requirements, end goals and a supporting team to move things along.&lt;br /&gt;
+In the wild wild west of Open data, it is very hard to find a structure that takes you beyond your standard Tutorial/MOOC material.&lt;br /&gt;&lt;br /&gt;
+I was in a similar predicament for the past few months. I often took a dataset, poked into it with Excel/R/d3/Tableau and after a while I got confused as to what was I looking for.
+This exercise, though very beneficial did not lend me the satisfaction of solving a problem. After all, what did I achieve?&lt;br /&gt;
+So, this morning I was going through the same ritual, but on Kaggle.
+I explored the dataset containing &lt;a href=&quot;https://www.kaggle.com/kaggle/hillary-clinton-emails&quot;&gt; Hillary Clinton’s emails &lt;/a&gt;.
+This time, instead of downloading the dataset I decided to look at what others had done.
+However, I found a few highly rated scripts which addressed the foreign policy aspect in those emails. One of them, did a frequency analysis for all the countries in the world against those emails. The author mapped their results.
+The second one did a sentiment analysis of those countries and created a bar graph. &lt;br /&gt;&lt;br /&gt;
+As I went through, forked and &lt;strong&gt;rewrote&lt;/strong&gt; those scripts, I began to get an understanding of their code.
+I made fairly minor and insignificant, mostly syntactical changes to the first script based on my programming style.
+In the second one, it was clear to me that the visualization could be much more effective if it was a color coded map instead of a bar chart. So, inspired by the first script, I simply reworked the sentiment expressed about countries to a map and recolored to a diverging red-blue scheme.
+The output was visually pleasing and IMHO was a better representation of a geographical data than a bar chart.&lt;br /&gt;&lt;br /&gt;
+But that I was able to read, understand and extend an existing piece of code was the most valuable outcome from this exercise for me. &lt;br /&gt;
+As a Kaggle lurker for about an year or so, writing my first snippet that extended an existing functionality was very encouraging.&lt;br /&gt;&lt;br /&gt;
+So my advice, if you feel unsure about a new dataset, simply take a look at what people have already done with it. &lt;strong&gt;Rewrite&lt;/strong&gt; the code(this is important, &lt;strong&gt;rewrite&lt;/strong&gt; instead of copy paste and if possible, make syntactical changes based on your programming style) and then see if there is someway you can make some addition to it.&lt;br /&gt;&lt;br /&gt;
+Sometimes, the changes might be as simple as modularizing the code, or like in my case, creating a new visualization, but this will get your creative juices flowing while giving you a better understanding of what is going on.
+You can find my script &lt;a href=&quot;https://www.kaggle.com/jparchure/d/kaggle/hillary-clinton-emails/map-of-country-sentiments&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/08/31/Dipping-Toes.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/08/31/Dipping-Toes.html</guid>
+			</item>
+		
+			<item>
+				<title>Conference Updates</title>
+				
+				
+					<description>&lt;p&gt;
+Over the course of April and May, I was fortunate to attend two professional conferences. It&#39;s part of the skill development initiatives that the Office for Innovation offers here at ACT.&lt;/p&gt;
+&lt;p&gt;
+The first one, the &lt;a href=&quot;https://theinnovationenterprise.com/summits/data-visualization-innovation-summit-san-francisco-2016&quot;&gt;Data Visualization Innovation Summit &lt;/a&gt; took place on April 21 &amp;amp; 22 2016, in San Francisco. It was centered around discussing novel ways in which organizations were using Data Visualization concepts to drive innovation. Though there were some detailed technical discussions, it was mostly about discussing concepts, workflows and processes.
+&lt;/p&gt;
+&lt;p&gt;
+The second, more recent one was the &lt;a href=&quot;http://www.odsc.com/boston&quot;&gt;Open Data Science Conference&lt;/a&gt;, held in Boston from 20-22 May 2016. This one was more intensive and extensive, exploring not just Visualization but also other aspects of Data Science such as Machine Learning and Big Data Analytics. It also had talks on the role and application of Data Science in domains which are traditional considered conservative with data, notably the government and the financial industry.
+The conference was huge, with over 50 workshops and speaker sessions over 3 days and more than 750 attendees. The discussions were mostly technical in nature, with Jupyter notebooks and RStudio a common sight in presentations.
+&lt;/p&gt;
+&lt;h3&gt; Takeaways &lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;It is indeed a wild west out there. There are differing views on how to approach Data science. One says you need to know the problem you are trying to solve, the other wants you to use data to discover problems. Same with tools and packages, there are rich libraries for both R and Python, which are the most common languages of choice, with some challenge from upcoming languages like Julia. &lt;/li&gt;
+	&lt;li&gt;
+	For aspirational Data scientists, it is similar to being a programmer.
+	Ideally, you are expected to have a strong math/stat background with command over data structure and algorithmic thinking, but in most cases you can get by without formal training. What&#39;s indispensible is knowing what to use, and when.
+	&lt;/li&gt;
+	&lt;li&gt;
+	Big Data is indeed tossed around too much. Anecdotal evidence- 4/5 people I talked to, said they did not have massive data sets, the maximum was a few hundred GiGs.
+	&lt;/li&gt;
+	&lt;li&gt;
+	Data Visualization is no longer just a tool to impress the data illiterate. Data Scientists are actively using it for feature exploration, finding trends, outliers and summarizing results.
+	Active development in R and Python libraries, such as ggplot2, shinyR, seaborn and bokeh support this finding.
+	&lt;/li&gt;
+	&lt;li&gt;
+	There is a dearth of Data scientists in the industry. Even though no single person can know everything, yet requirements posted by companies are still &lt;a href=&quot;http://insidebigdata.com/2014/01/09/data-science-found-unicorn-yet/&quot;&gt;akin to finding a unicorn&lt;/a&gt;. IMHO, this stems from the inability of companies to understand their own needs and instead giving in to the buzzword frenzy. Plus, as the article states, Data Science is about team work, not a one man army.
+	&lt;/li&gt;
+	&lt;li&gt;
+	Again, via anecdotal evidence of the people I networked with, there is a gap between Upper Management and Data Analysts/Scientists. The former either do not understand or are unwilling to move to Data driven decision making, whereas the latter might not be good at communicating the benefits of such an approach.
+	&lt;/li&gt;
+	&lt;li&gt;
+	The Boston Convention Center has some amazing food for a cafeteria.
+	&lt;/li&gt;
+
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Mon, 23 May 2016 00:00:00 -0500</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/05/23/Conference-Updates.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/05/23/Conference-Updates.html</guid>
+			</item>
+		
+			<item>
+				<title>Merry March Update</title>
+				
+				
+					<description>&lt;p&gt;I am sick of hearing the term “March Madness” everywhere and the NCAA Tournament hasn’t even started yet. Crazy Right? So I changed the title to something different.
+So, what has been going on in my life, you ask?
+A lot and yet so little.&lt;/p&gt;
+
+&lt;p&gt;On Feb 23, my idea was chosen in the top 3 of ACT’s bi-annual Idea recognition event called Bloom Out Loud. Only one of the three got to be crowd favorite (sadly it wasn’t mine), but it was fun to discuss something I have been working on for a while infront of the whole company. Ofcourse, I can’t share what it was here because of company privacy issues, but it was using an existing concept to come up with a new business idea. Even though I didn’t win, my idea was validated by several business leaders who came up to me to discuss next steps, once the event was over.&lt;/p&gt;
+
+&lt;iframe src=&quot;//giphy.com/embed/RyDqB7eei5dn2&quot; width=&quot;480&quot; height=&quot;269&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; style=&quot;float:center&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;http://giphy.com/gifs/kawaii-sweet-bw-RyDqB7eei5dn2&quot;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the non-work related stuff, I have been following this amazing (and free) book called &lt;a href=&quot;https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf&quot;&gt; “Introduction to Probability and Statistics Using R” &lt;/a&gt; to brush up on my stats. Coming from a strong software development background, I was struggling to find a good resource to not just be a refresher on stats but also to relate to my existing programming knowledge. This book can be used with standard R  and doesn’t require you to go hunt for datasets, like many well-intentioned resources on the web do. But an important note, you need to be comfortable with programming before you jump right in. As the author says- &lt;i&gt;…the title of this book is “Introduction to Probability and Statistics Using R”, and not “Introduction to R Using Probability and Statistics”, nor even “Introduction
+to Probability and Statistics and R Using Words”…&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;On Tuesday, March 8, I attended a local Developer &lt;a href=&quot;http://www.meetup.com/techcorridorio/events/229325772/&quot;&gt; Meetup &lt;/a&gt; held in a small bar in Downtown Iowa City. It was a valuable opportunity to connect with several talented people working on very challenging technical problems. The gentleman I was talking with, worked for the State of Iowa and managed health data for a specific disease. Being in a company myself, were we have to be very meticulous and careful about using our data, I was able to understand and empathize with the non-technical challenges of data management that many not-for-profit data-intensive organizations have to tackle on a continous basis.&lt;/p&gt;
+
+&lt;p&gt;Moving on from the Data world, I have been playing badminton for the past few weeks now. I joined the Badminton Club at the U(niversity of Iowa) and join them every Tuesday and Thursday. Despite being off court for close to two years, I pleasantly discovered I hadn’t rusted a lot. The only issue apart from some glaring intermediate-level game flaws was fitness. I ran out of breath after just two doubles games and had to take a break for about 10 minutes or so. Physical issues aside, playing badminton is a lot of fun, it gets your adrenaline pumping and makes your reflexes sharper.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 11 Mar 2016 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/03/11/Merry-March-Update.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/03/11/Merry-March-Update.html</guid>
+			</item>
+		
+			<item>
+				<title>Fab February Update</title>
+				
+				
+					<description>&lt;p&gt;I have been busy with lots of stuff recently, no wonder it has been a while since I posted.
+A small preview of what I have been upto-&lt;/p&gt;
+&lt;h3&gt;Drawing&lt;/h3&gt;
+&lt;p&gt;I have always wanted to learn to how to draw, so this month I decided to act on my long time desires.
+I got this book off ebay and decided to give it a shot.&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51pWC9RboCL._SX396_BO1,204,203,200_.jpg&quot; style=&quot;width: 50%; height: 50%&quot; /&gt;&lt;br /&gt;
+Surprisingly enough, this book does deliver on its promise of teaching absolute newbies who can’t even draw a proper straight line, to draw. The progress is slow, (I am still on Lesson 3) but hey I am atleast moving. &lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Data Science &lt;/h3&gt;
+&lt;p&gt;There has been a lot of back and forth movement in this area. Despite my theoretical background in Machine Learning algorithms and evaluating them with Weka, I find it challenging to write predictive programs. I am still confused between Pandas and R as I know a little bit of both but not enough for an objective evaluation. Hopefully, this new project I am working on (details soon) will provide enough thrust for takeoff. Once I get in the air, it should be a smooth ride. The reason I am so confident is because it has been a trend with me in the past. Often, I struggle, sometime vehemently to learn a new tool/language. But then there comes a tipping point, when I go through problems like Christian McCaffrey through the Iowa Defense. It happened with Python, it happened with JavaScript and now it’s going to happen with Machine Learning, irrespective of the tool I end up choosing.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Reading &lt;/h3&gt;
+&lt;p&gt;I am currently reading two books. &lt;br /&gt;
+The first one, Nate Silver’s- “The Signal and The Noise” talks about the science of predictions. It discusses in depth on why so many predictions go wrong and explores the ones that are right.
+The second book &lt;i&gt;Between the World and me&lt;/i&gt; is written by the acclaimed black author and journalist Ta-Nehisi Coates, who shares his experience and travails of growing up in the post Jim Crow era. His insights on the psyche of an African-American community, their pains, their struggles and their relations with other races is compelling and thought provoking.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2016/02/12/Fab-February-Update.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2016/02/12/Fab-February-Update.html</guid>
+			</item>
+		
+			<item>
+				<title>A Simple Alteryx Workflow</title>
+				
+				
+					<description>&lt;p&gt;So, I’ve been working with this amazing data blending and analytics tool called &lt;a href=&quot;http://www.alteryx.com&quot;&gt;Alteryx&lt;/a&gt;.
+It allows you to develop easy workflows for repeatable data pre-processing and analytics needs.&lt;br /&gt;
+As a data analyst, there are many instances when you have a certain of set of actions to perform, everytime any new data is brought to your knowledge.
+It could be as simple as renaming a file, to convert it to another format, perform statistical tests or connect to another tool such as Tableau.
+So, today as I began a new data science project using &lt;a href=&quot;https://dandelion.eu/datamine/open-big-data/&quot;&gt;this&lt;/a&gt; open big data set from Telecom Italia, I discovered that the data files did not have headers.
+Naturally one likes to have an idea of what exactly does the data represent. So, I looked it up and sure enough there did exist the metadata for the set online, but it was neither as a metadata file, nor added in the dataset. Now I could ofcourse write a script to do it, but what if my client wanted to do it themselves with no programming background?
+&lt;i&gt;Alteryx to the rescue!&lt;/i&gt;
+&lt;br /&gt;
+I’ll cut the chase and get to the solution.
+&lt;br /&gt;
+Here are the steps to add a header to all of your files using Alteryx-&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create an empty folder called &quot;Data_With_Headers&quot;, copy its location on your file system.&lt;/li&gt;
+&lt;li&gt;Create a csv file name header_data that contains the column headers for your file&lt;/li&gt;
+&lt;li&gt;Open Alteryx&lt;/li&gt;
+&lt;li&gt;On the toolbar above, you see a bunch of icons in different colors. These are &lt;b&gt;tools&lt;/b&gt; and can be thought of as mini-functions or available operators&lt;/li&gt;
+&lt;li&gt;Drag the &lt;b&gt;Input Data&lt;/b&gt; tool to the white space (called canvas) &lt;/li&gt;
+&lt;li&gt;On the left hand pane, Enter the path to the folder where your data files are located. End the path location with &lt;b&gt; &#39;\*&#39; &lt;/b&gt;(without quotes)&lt;/li&gt;
+Note: This assumes all your data files are of same type and reside in the same folder.
+&lt;li&gt; In the Options panel, select &quot;Output File Name as Field&quot; and from the dropdown, choose &quot;File Name Only&quot; &lt;/li&gt;
+&lt;li&gt;Now, In the search bar near the top left, search for the &lt;b&gt;Dynamic Rename Tool&lt;/b&gt;. Select it and drag it to the canvas &lt;/li&gt;
+&lt;li&gt;You&#39;ll notice there are two small marks named &lt;b&gt;L&lt;/b&gt; and &lt;b&gt;R&lt;/b&gt; on this tool. The L connects to the Input tool and R is currently empty&lt;/li&gt;
+&lt;li&gt; Drag and Drop another Input Data tool to the canvas and connect it to R by clicking on its end and drawing a line to R of the Dynamic Rename Tool&lt;/li&gt;
+&lt;li&gt; As we did earlier, enter the path to your metadata csv file. After this, click on the Dynamic Rename tool again &lt;/li&gt;
+&lt;li&gt; In the panel on the left, Select &quot;Take Field Names from Right Input Metadata&quot;. This tells Alteryx to use the R input as a metadata&lt;/li&gt;
+&lt;li&gt; Drag and drop the &lt;b&gt;Output Data &lt;/b&gt; tool from the toolbar above to the whitespace and link it with the right hand side mark of the Dynamic Rename Tool &lt;/li&gt;
+&lt;li&gt; Similar to the input tools, specify a file name for the Output tool, this should point to your &lt;i&gt; Data_With_Headers &lt;/i&gt; folder from Step 1, ending with /.csv (or your desired file format) &lt;/li&gt;
+&lt;li&gt;From the File Menu, selecte &lt;b&gt; Tools -&amp;gt; Run Workflow &lt;/b&gt; or press Ctrl + R &lt;/li&gt;
+The Workflow is now executing. Once it&#39;s finished you&#39;ll have a new set of files with headers on them. If you do not wish to maintain multiple copies of your files, you can simply specify the same folder in Steps 6 and 14 in order to overwrite your files.
+In order to reuse this workflow, simply save it. Now you can specify your folder and metadata and get files with headers for all your future needs.&lt;br /&gt;
+Hope this was useful to you. If you have any questions, feel free to send me a message on the Contact Page.&lt;br /&gt;
+Best&lt;br /&gt;
+J
+
+&lt;/ol&gt;
+</description>
+				
+				<pubDate>Mon, 21 Dec 2015 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2015/12/21/A-Simple-Alteryx-Workflow.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2015/12/21/A-Simple-Alteryx-Workflow.html</guid>
+			</item>
+		
+			<item>
+				<title>Whoa!</title>
+				
+				
+					<description>&lt;p&gt;Hello fellow Programmer!&lt;br /&gt;
+Or atleast an ex-programmer,&lt;br /&gt;
+Or a Data analyst,
+Or maybe you accidentally landed here, in that case
+&lt;br /&gt; &lt;em&gt;in a deep throaty voice&lt;/em&gt; &lt;b&gt;Hello Stranger.&lt;/b&gt;&lt;br /&gt;
+It’s been quite a while since I last updated my github page.&lt;br /&gt;
+Not that I have not been programming, but rather I haven’t had the chance to tidy up my github landing page.&lt;br /&gt;
+So now that you are here. Feel free to poke around. I’ll be adding some more stuff (hopefully) regularly from now on.&lt;br /&gt;
+Best&lt;br /&gt;
+J&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 15 Dec 2015 00:00:00 -0600</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2015/12/15/Whoa!.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2015/12/15/Whoa!.html</guid>
+			</item>
+		
+			<item>
+				<title>Namaste World</title>
+				
+				
+					<description>&lt;h3 id=&quot;welcome&quot;&gt;Welcome&lt;/h3&gt;
+&lt;p&gt;Hello Guys! This is Jay here. I go to school at The University of Iowa for my Masters in Computer Science.
+I have been on GitHub for a while, but only recently did I create a landing page for my repositories.
+My recent work on Ruby on Rails and D3.js has been committed &lt;a href=&quot;http://github.com/jparchure&quot;&gt; here &lt;/a&gt;&lt;br /&gt;
+Best&lt;br /&gt;
+J&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 13 Jun 2014 00:00:00 -0500</pubDate>
+				<link>https://jparchure.github.io/personal-jekyll-theme/2014/06/13/another.post.html</link>
+				<guid isPermaLink="true">https://jparchure.github.io/personal-jekyll-theme/2014/06/13/another.post.html</guid>
+			</item>
+		
+	</channel>
+</rss>
